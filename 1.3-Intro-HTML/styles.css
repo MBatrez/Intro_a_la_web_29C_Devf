@@ -1,0 +1,15 @@
+p {
+    color: goldenrod;
+}
+
+li {
+    color: steelblue;
+}
+
+.color-green {
+    color: green;
+}
+
+#li importantisimo  {
+    color: orange;
+}
